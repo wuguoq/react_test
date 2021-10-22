@@ -10,3 +10,4 @@ declare module '*.less' {
     const calsses: { [key: string]: string } ;
     export default calsses;
   }
+  declare module 'rc-redux-model';
